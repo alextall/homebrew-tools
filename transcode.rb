@@ -1,8 +1,8 @@
 class Transcode < Formula
   desc ""
   homepage "https://github.com/alextall/Transcode"
-  url "https://github.com/alextall/Transcode/archive/v1.3.tar.gz"
-  sha256 "58bdfd0ca1bb08334eb1e80ac873fe01f3352364bfa825d26bad828253c7b53b"
+  url "https://github.com/alextall/Transcode/archive/v1.4.tar.gz"
+  sha256 "db3c80a735a9ab1571dd3f0f7cf28b4531202c34db9c1c539fb9b7e111bf572d"
 
   def install
     bin.install "transcode.sh"
