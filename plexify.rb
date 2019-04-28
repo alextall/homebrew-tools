@@ -1,8 +1,8 @@
 class Plexify < Formula
     desc "Transcode video files to lower bitrates based on resolution"
     homepage "https://github.com/alextall/Plexify"
-    url "https://github.com/alextall/Plexify/archive/v0.1.tar.gz"
-    sha256 "8d17f0867b8c9cf7d1ed706b44a21745aab2d7bef7f3b8db2a9df1d9892b6717"
+    url "https://github.com/alextall/Plexify/archive/v0.2.tar.gz"
+    sha256 "7d90c2a05e65a649b38dda68499397d7c9e096395d5ba05d7dc3d91b0bd517da"
     head "https://github.com/alextall/Plexify.git"
 
     depends_on "handbrake"
